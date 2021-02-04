@@ -13,3 +13,5 @@ https://aaronquach123.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Aaron Quach
+
+# Run Buddy Inc.
