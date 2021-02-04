@@ -9,7 +9,7 @@ A website that offers fitness training services.
 *CSS
 
 ## Website
-https://aaronquach123.io/run-buddy/
+https://aaronquach123.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Aaron Quach
